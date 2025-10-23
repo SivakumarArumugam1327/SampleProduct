@@ -1,0 +1,4 @@
+2025-10-05 10:19:43Z | User: admin | Action: JwtAuthDemo.Controllers.HomeController.GetSecureData (Myproducts)
+2025-10-05 10:20:28Z | User: admin | Action: JwtAuthDemo.Controllers.HomeController.GetSecureData (Myproducts)
+2025-10-14 15:54:03Z | User: admin | Action: JwtAuthDemo.Controllers.HomeController.GetSecureData (Myproducts)
+2025-10-14 16:01:59Z | User: admin | Action: JwtAuthDemo.Controllers.EmployeeController.GetSecureData (Myproducts)
