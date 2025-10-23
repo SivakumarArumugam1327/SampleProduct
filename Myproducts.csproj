@@ -17,12 +17,10 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.14.0" />
+	<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="Microsoft.AspNetCore.Authentication.JwtBearer">
-      <HintPath>..\..\..\..\AppData\Local\AzureFunctionsTools\Releases\3.50.0\cli_x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll</HintPath>
-    </Reference>
     <Reference Include="System.IdentityModel.Tokens.Jwt">
       <HintPath>..\..\..\AppData\Local\AzureFunctionsTools\Releases\3.50.0\cli_x64\System.IdentityModel.Tokens.Jwt.dll</HintPath>
     </Reference>
