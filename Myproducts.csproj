@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <Reference Include="Microsoft.AspNetCore.Authentication.JwtBearer">
-      <HintPath>..\..\..\AppData\Local\AzureFunctionsTools\Releases\3.50.0\cli_x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll</HintPath>
+      <HintPath>..\..\..\..\AppData\Local\AzureFunctionsTools\Releases\3.50.0\cli_x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll</HintPath>
     </Reference>
     <Reference Include="System.IdentityModel.Tokens.Jwt">
       <HintPath>..\..\..\AppData\Local\AzureFunctionsTools\Releases\3.50.0\cli_x64\System.IdentityModel.Tokens.Jwt.dll</HintPath>
